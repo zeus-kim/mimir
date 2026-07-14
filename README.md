@@ -24,7 +24,7 @@ A standalone MCP (Model Context Protocol) server for building, managing, and ope
 ### pip (Recommended)
 
 ```bash
-pip install mimir-mcp
+pip install mimir-vertical
 ```
 
 ### Go

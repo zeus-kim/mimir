@@ -1,3 +1,32 @@
+Metadata-Version: 2.4
+Name: mimir-vertical
+Version: 1.0.0
+Summary: Vertical Search Engine MCP Server - Create domain-specific search engines through natural language
+Author-email: zeus-kim <zeus@example.com>
+License: MIT
+Project-URL: Homepage, https://github.com/zeus-kim/mimir
+Project-URL: Repository, https://github.com/zeus-kim/mimir
+Project-URL: Issues, https://github.com/zeus-kim/mimir/issues
+Keywords: mcp,search-engine,vertical-search,claude,ai,llm
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Internet :: WWW/HTTP :: Indexing/Search
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests>=2.25.0
+Requires-Dist: platformdirs>=2.0.0
+Dynamic: license-file
+
 # mimir-vertical
 
 [![PyPI version](https://badge.fury.io/py/mimir-vertical.svg)](https://pypi.org/project/mimir-vertical/)

@@ -24,7 +24,7 @@
 ### pip (권장)
 
 ```bash
-pip install mimir-mcp
+pip install mimir-vertical
 ```
 
 ### Go

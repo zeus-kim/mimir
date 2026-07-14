@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+mimir_vertical/__init__.py
+mimir_vertical/cli.py
+mimir_vertical.egg-info/PKG-INFO
+mimir_vertical.egg-info/SOURCES.txt
+mimir_vertical.egg-info/dependency_links.txt
+mimir_vertical.egg-info/entry_points.txt
+mimir_vertical.egg-info/requires.txt
+mimir_vertical.egg-info/top_level.txt

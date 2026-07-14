@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mimir-mcp"
+name = "mimir-vertical"
 version = "1.0.0"
 description = "Vertical Search Engine MCP Server - Create domain-specific search engines through natural language"
 readme = "README.md"
@@ -38,7 +38,7 @@ Repository = "https://github.com/zeus-kim/mimir"
 Issues = "https://github.com/zeus-kim/mimir/issues"
 
 [project.scripts]
-mimir-mcp = "mimir_mcp.cli:main"
+mimir-vertical = "mimir_vertical.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["."]

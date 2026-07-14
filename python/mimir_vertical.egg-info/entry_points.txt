@@ -1,0 +1,2 @@
+[console_scripts]
+mimir-vertical = mimir_vertical.cli:main
