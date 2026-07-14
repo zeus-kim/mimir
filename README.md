@@ -1,5 +1,7 @@
 # mimir
 
+[English](README.md) | [한국어](README.ko.md)
+
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://go.dev)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-134%20passed-success)](https://github.com/zeus-kim/mimir)
