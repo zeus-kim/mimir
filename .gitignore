@@ -45,3 +45,4 @@ config.local.json
 *.db
 *.db-shm
 *.db-wal
+release/
