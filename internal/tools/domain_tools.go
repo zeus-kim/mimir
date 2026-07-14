@@ -3,9 +3,9 @@ package tools
 import (
 	"fmt"
 
-	"github.com/user/mimir-mcp/internal/db"
-	"github.com/user/mimir-mcp/internal/fetch"
-	"github.com/user/mimir-mcp/internal/i18n"
+	"github.com/zeus-kim/mimir/internal/db"
+	"github.com/zeus-kim/mimir/internal/fetch"
+	"github.com/zeus-kim/mimir/internal/i18n"
 )
 
 // RegisterDomainTools registers domain-specific fetch tools

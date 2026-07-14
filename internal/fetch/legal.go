@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/user/mimir-mcp/internal/db"
+	"github.com/zeus-kim/mimir/internal/db"
 )
 
 // ===========================================================================

@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/user/mimir-mcp/internal/db"
-	"github.com/user/mimir-mcp/internal/i18n"
-	"github.com/user/mimir-mcp/internal/logger"
+	"github.com/zeus-kim/mimir/internal/db"
+	"github.com/zeus-kim/mimir/internal/i18n"
+	"github.com/zeus-kim/mimir/internal/logger"
 )
 
 // Vertical represents a vertical search engine instance

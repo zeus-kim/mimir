@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/user/mimir-mcp/internal/ranking"
+	"github.com/zeus-kim/mimir/internal/ranking"
 )
 
 // Source represents a discovered source

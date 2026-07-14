@@ -3,7 +3,7 @@ package fetch
 import (
 	"fmt"
 
-	"github.com/user/mimir-mcp/internal/db"
+	"github.com/zeus-kim/mimir/internal/db"
 )
 
 // QueryConfig defines a single fetch query with its parameters

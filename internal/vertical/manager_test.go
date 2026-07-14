@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/user/mimir-mcp/internal/i18n"
+	"github.com/zeus-kim/mimir/internal/i18n"
 )
 
 // skipIfNoFTS5 skips tests that require FTS5 if it's not available

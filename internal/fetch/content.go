@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/go-shiori/go-readability"
-	"github.com/user/mimir-mcp/internal/db"
+	"github.com/zeus-kim/mimir/internal/db"
 )
 
 // ContentFetcher fetches and extracts article content from URLs

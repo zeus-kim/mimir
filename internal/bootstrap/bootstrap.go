@@ -25,8 +25,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/user/mimir-mcp/internal/discovery"
-	"github.com/user/mimir-mcp/internal/ranking"
+	"github.com/zeus-kim/mimir/internal/discovery"
+	"github.com/zeus-kim/mimir/internal/ranking"
 )
 
 // BootstrapConfig holds configuration for vertical bootstrapping

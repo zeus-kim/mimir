@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/user/mimir-mcp/internal/tts"
+	"github.com/zeus-kim/mimir/internal/tts"
 )
 
 // AudioBriefing represents a generated audio briefing

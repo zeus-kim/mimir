@@ -1,4 +1,4 @@
-module github.com/user/mimir-mcp
+module github.com/zeus-kim/mimir
 
 go 1.25.0
 

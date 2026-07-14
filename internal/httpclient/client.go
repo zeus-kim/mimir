@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/user/mimir-mcp/internal/logger"
+	"github.com/zeus-kim/mimir/internal/logger"
 )
 
 // Client is an HTTP client with retry, rate limiting, and timeout support

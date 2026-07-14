@@ -3,7 +3,7 @@ package tools
 import (
 	"fmt"
 
-	"github.com/user/mimir-mcp/internal/vertical"
+	"github.com/zeus-kim/mimir/internal/vertical"
 )
 
 // RegisterVerticalTools registers vertical management tools

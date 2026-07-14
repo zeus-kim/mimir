@@ -4,9 +4,9 @@ import (
 	"context"
 	"runtime"
 
-	"github.com/user/mimir-mcp/internal/health"
-	"github.com/user/mimir-mcp/internal/i18n"
-	"github.com/user/mimir-mcp/internal/metrics"
+	"github.com/zeus-kim/mimir/internal/health"
+	"github.com/zeus-kim/mimir/internal/i18n"
+	"github.com/zeus-kim/mimir/internal/metrics"
 )
 
 // RegisterSystemTools registers system-related tools
