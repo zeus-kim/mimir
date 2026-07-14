@@ -1,0 +1,19 @@
+{
+  "fetch_clinical_trials": "Fetch clinical trials from ClinicalTrials.gov",
+  "fetch_pubmed": "Fetch articles from PubMed",
+  "fetch_fda_approvals": "Fetch FDA drug approvals",
+  "fetch_fda_adverse_events": "Fetch FDA adverse event reports",
+  "fetch_sec_filings": "Fetch SEC filings",
+  "generate_briefing": "Generate briefing with TTS",
+  "send_briefing": "Send briefing via delivery channel",
+  "stats": "Get database statistics",
+  "search": "Search across all sources",
+  "briefing": {
+    "greeting": "Hello",
+    "title": "Pharma Intelligence Briefing",
+    "tracking": "Currently tracking",
+    "phase3_news": "Here are the key Phase 3 clinical trial updates",
+    "safety_monitoring": "FDA adverse event monitoring status",
+    "closing": "That concludes today's pharma briefing. Have a great day"
+  }
+}

@@ -1,0 +1,47 @@
+# Binaries
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+mimir-mcp
+
+# Test binary
+*.test
+
+# Output
+*.out
+coverage/
+dist/
+
+# Dependencies
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime
+tmp/
+*.log
+
+# Air (hot reload)
+.air/
+
+# Local config (secrets)
+config.local.json
+.env
+.env.*
+
+# Databases (but not schema)
+*.db
+*.db-shm
+*.db-wal

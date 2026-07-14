@@ -1,0 +1,19 @@
+{
+  "fetch_clinical_trials": "ClinicalTrials.gov에서 임상시험 데이터 수집",
+  "fetch_pubmed": "PubMed에서 논문 수집",
+  "fetch_fda_approvals": "FDA 승인 약물 수집",
+  "fetch_fda_adverse_events": "FDA 부작용 보고 수집",
+  "fetch_sec_filings": "SEC 공시 수집",
+  "generate_briefing": "브리핑 생성 (TTS 포함)",
+  "send_briefing": "브리핑 전송",
+  "stats": "데이터베이스 통계",
+  "search": "전체 소스 검색",
+  "briefing": {
+    "greeting": "안녕하세요",
+    "title": "제약 인텔리전스 브리핑",
+    "tracking": "현재 추적 중",
+    "phase3_news": "주요 Phase 3 임상시험 업데이트입니다",
+    "safety_monitoring": "FDA 부작용 모니터링 현황입니다",
+    "closing": "오늘의 제약 브리핑을 마칩니다. 좋은 하루 되세요"
+  }
+}

@@ -1,0 +1,80 @@
+{"topic": "ai", "name": "arXiv AI", "url": "https://export.arxiv.org/rss/cs.AI", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "ai", "name": "arXiv ML", "url": "https://export.arxiv.org/rss/cs.LG", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "ai", "name": "arXiv CL", "url": "https://export.arxiv.org/rss/cs.CL", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "ai", "name": "arXiv CV", "url": "https://export.arxiv.org/rss/cs.CV", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "ai", "name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "ai", "name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "ai", "name": "DeepMind Blog", "url": "https://deepmind.com/blog/feed/basic/", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "ai", "name": "Anthropic News", "url": "https://www.anthropic.com/news/rss", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "ai", "name": "MIT Tech Review AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "ai", "name": "The Batch (deeplearning.ai)", "url": "https://www.deeplearning.ai/the-batch/feed/", "language": "en", "tier": 1, "feed_type": "blog"}
+
+{"topic": "tech", "name": "Hacker News", "url": "https://hnrss.org/frontpage", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "tech", "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "tech", "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "tech", "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "tech", "name": "Wired", "url": "https://www.wired.com/feed/rss", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "science", "name": "Nature", "url": "https://www.nature.com/nature.rss", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "science", "name": "Science Magazine", "url": "https://www.science.org/rss/news_current.xml", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "science", "name": "arXiv Physics", "url": "https://export.arxiv.org/rss/physics", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "science", "name": "Scientific American", "url": "https://rss.sciam.com/ScientificAmerican-Global", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "science", "name": "New Scientist", "url": "https://www.newscientist.com/feed/home/", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "chemistry", "name": "arXiv Chemistry", "url": "https://export.arxiv.org/rss/chem-ph", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "chemistry", "name": "ACS Publications", "url": "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "chemistry", "name": "Chemistry World", "url": "https://www.chemistryworld.com/rss/news.xml", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "chemistry", "name": "Royal Society of Chemistry", "url": "https://pubs.rsc.org/en/journals/journalissues/cc#!recentarticles&adv", "language": "en", "tier": 1, "feed_type": "knowledge"}
+
+{"topic": "bakery", "name": "King Arthur Baking Blog", "url": "https://www.kingarthurbaking.com/blog/feed", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "bakery", "name": "The Fresh Loaf", "url": "https://www.thefreshloaf.com/rss.xml", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "bakery", "name": "Serious Eats Baking", "url": "https://www.seriouseats.com/baking/rss/", "language": "en", "tier": 2, "feed_type": "blog"}
+
+{"topic": "energy", "name": "Energy.gov News", "url": "https://www.energy.gov/rss/articles.xml", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "energy", "name": "CleanTechnica", "url": "https://cleantechnica.com/feed/", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "energy", "name": "Renewable Energy World", "url": "https://www.renewableenergyworld.com/feed/", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "energy", "name": "IEA News", "url": "https://www.iea.org/news/rss", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "politics", "name": "Politico", "url": "https://www.politico.com/rss/politicopicks.xml", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "politics", "name": "The Hill", "url": "https://thehill.com/feed/", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "politics", "name": "Foreign Policy", "url": "https://foreignpolicy.com/feed/", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "politics", "name": "Council on Foreign Relations", "url": "https://www.cfr.org/rss.xml", "language": "en", "tier": 1, "feed_type": "knowledge"}
+
+{"topic": "health", "name": "NIH News", "url": "https://www.nih.gov/news-events/news-releases/feed.xml", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "health", "name": "CDC Newsroom", "url": "https://tools.cdc.gov/podcasts/feed.asp?feedid=183", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "health", "name": "NEJM", "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "health", "name": "The Lancet", "url": "https://www.thelancet.com/rssfeed/lancet_current.xml", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "health", "name": "STAT News", "url": "https://www.statnews.com/feed/", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "business", "name": "Bloomberg", "url": "https://feeds.bloomberg.com/markets/news.rss", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "business", "name": "Financial Times", "url": "https://www.ft.com/?format=rss", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "business", "name": "Wall Street Journal", "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "business", "name": "Harvard Business Review", "url": "https://hbr.org/rss/feed", "language": "en", "tier": 1, "feed_type": "knowledge"}
+
+{"topic": "crypto", "name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "crypto", "name": "Decrypt", "url": "https://decrypt.co/feed", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "crypto", "name": "The Block", "url": "https://www.theblock.co/rss.xml", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "security", "name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "security", "name": "Schneier on Security", "url": "https://www.schneier.com/feed/atom/", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "security", "name": "CISA Alerts", "url": "https://www.cisa.gov/uscert/ncas/alerts.xml", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "security", "name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "space", "name": "NASA News", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "space", "name": "SpaceNews", "url": "https://spacenews.com/feed/", "language": "en", "tier": 1, "feed_type": "news"}
+{"topic": "space", "name": "arXiv Astrophysics", "url": "https://export.arxiv.org/rss/astro-ph", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "space", "name": "ESA News", "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "math", "name": "arXiv Math", "url": "https://export.arxiv.org/rss/math", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "math", "name": "Quanta Magazine Math", "url": "https://www.quantamagazine.org/mathematics/feed/", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "economics", "name": "VoxEU", "url": "https://voxeu.org/rss.xml", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "economics", "name": "NBER", "url": "https://www.nber.org/rss/new.xml", "language": "en", "tier": 1, "feed_type": "knowledge"}
+{"topic": "economics", "name": "Fed Reserve", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "legal", "name": "SCOTUSblog", "url": "https://www.scotusblog.com/feed/", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "legal", "name": "Law360", "url": "https://www.law360.com/rss/articles", "language": "en", "tier": 1, "feed_type": "news"}
+
+{"topic": "dev", "name": "GitHub Blog", "url": "https://github.blog/feed/", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "dev", "name": "Dev.to", "url": "https://dev.to/feed", "language": "en", "tier": 1, "feed_type": "blog"}
+{"topic": "dev", "name": "Stack Overflow Blog", "url": "https://stackoverflow.blog/feed/", "language": "en", "tier": 1, "feed_type": "blog"}

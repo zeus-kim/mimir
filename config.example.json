@@ -1,0 +1,71 @@
+{
+  "server": {
+    "name": "mimir-mcp",
+    "version": "1.0.0",
+    "language": "en"
+  },
+  "database": {
+    "path": "",
+    "wal_mode": true,
+    "busy_timeout_ms": 5000
+  },
+  "tts": {
+    "engine": "edge-tts",
+    "voice": "en-US-AriaNeural",
+    "language": "en",
+    "speed": "+0%"
+  },
+  "delivery": {
+    "default": "none",
+    "telegram": {
+      "bot_token": "",
+      "chat_id": ""
+    },
+    "slack": {
+      "webhook_url": ""
+    },
+    "discord": {
+      "webhook_url": ""
+    },
+    "ntfy": {
+      "server": "https://ntfy.sh",
+      "topic": ""
+    },
+    "email": {
+      "smtp_host": "",
+      "smtp_port": 587,
+      "username": "",
+      "password": "",
+      "from": "",
+      "to": ""
+    }
+  },
+  "api_keys": {
+    "fred": "",
+    "congress": "",
+    "eia": "",
+    "usda": "",
+    "propublica": "",
+    "opensecrets": "",
+    "votesmart": "",
+    "openstates": "",
+    "courtlistener": "",
+    "entsoe": "",
+    "dart": "",
+    "korean_assembly": "",
+    "alpha_vantage": "",
+    "spoonacular": ""
+  },
+  "verticals": {
+    "base_dir": "",
+    "default_languages": ["en", "ko"],
+    "min_fit_percent": 50.0,
+    "max_feeds": 200,
+    "prune_threshold": 0.3
+  },
+  "logging": {
+    "level": "info",
+    "format": "text",
+    "file": ""
+  }
+}
