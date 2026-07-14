@@ -21,18 +21,24 @@ A standalone MCP (Model Context Protocol) server for building, managing, and ope
 
 ## Installation
 
+### pip (Recommended)
+
+```bash
+pip install mimir-mcp
+```
+
+### Go
+
+```bash
+go install github.com/zeus-kim/mimir/cmd/mimir-mcp@latest
+```
+
 ### From Source
 
 ```bash
 git clone https://github.com/zeus-kim/mimir.git
 cd mimir
 make build
-```
-
-### Using Go
-
-```bash
-go install github.com/zeus-kim/mimir/cmd/mimir-mcp@latest
 ```
 
 ### Docker

@@ -21,18 +21,24 @@
 
 ## 설치
 
+### pip (권장)
+
+```bash
+pip install mimir-mcp
+```
+
+### Go
+
+```bash
+go install github.com/zeus-kim/mimir/cmd/mimir-mcp@latest
+```
+
 ### 소스에서 빌드
 
 ```bash
 git clone https://github.com/zeus-kim/mimir.git
 cd mimir
 make build
-```
-
-### Go 사용
-
-```bash
-go install github.com/zeus-kim/mimir/cmd/mimir-mcp@latest
 ```
 
 ### Docker

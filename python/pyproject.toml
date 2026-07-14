@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mimir-mcp"
+version = "1.0.0"
+description = "Vertical Search Engine MCP Server - Create domain-specific search engines through natural language"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "zeus-kim", email = "zeus@example.com"}
+]
+keywords = ["mcp", "search-engine", "vertical-search", "claude", "ai", "llm"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.25.0",
+    "platformdirs>=2.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/zeus-kim/mimir"
+Repository = "https://github.com/zeus-kim/mimir"
+Issues = "https://github.com/zeus-kim/mimir/issues"
+
+[project.scripts]
+mimir-mcp = "mimir_mcp.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
