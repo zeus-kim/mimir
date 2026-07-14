@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mimir": {
+      "command": "mimir-vertical",
+      "args": [],
+      "env": {
+        "MIMIR_LANGUAGE": "en",
+        "MIMIR_LOG_LEVEL": "info"
+      }
+    }
+  }
+}
